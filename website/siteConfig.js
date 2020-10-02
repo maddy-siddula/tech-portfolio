@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'http://www.linkedin.com/in/madhuri-siddula',
         twitter: '',
         github: '',
     },
